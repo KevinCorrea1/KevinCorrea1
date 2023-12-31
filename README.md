@@ -1,9 +1,9 @@
 ### Olá ! Eu sou o Kevin Correa👾🤖
  Desenvolvedor júnior<br/>
+ [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-correa-06a4a0279) <br/>
  
 ![Kevin Correa GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCorrea1&show_icons=true&theme=onedark)
-
 ## tecnologia que uso no meu dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCorrea1)](https://github.com/KevinCorrea1/github-readme-stats)
 <div style="display: inline_block"> <br/>
